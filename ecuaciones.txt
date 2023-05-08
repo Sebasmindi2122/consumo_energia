@@ -1,0 +1,1 @@
+{"Andres peraza": "-0.58*x**2 + 16.83*x + 78.06", "daniel Blanco": "206.89 - 5.29*x", "Jorge Martinez": "209.17 - 5.49*x", "Camilo": "-1.07*x**2 + 14.27*x + 100.61", "Jose Perez": "0.02*x**2 - 5.87*x + 208.33"}
