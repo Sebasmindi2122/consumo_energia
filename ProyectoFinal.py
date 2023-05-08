@@ -122,7 +122,7 @@ def graficador(nombre_persona,archivo_csv):
     ecuacion_sympy = sympify(regression_function)
     extraer()
 
-    with open(r'./ecucaciones.txt', 'r') as archivo:
+    with open(r'./ecuaciones.txt', 'r') as archivo:
         contenido_actual = archivo.read()
     if contenido_actual:
         resultados = json.loads(contenido_actual)
